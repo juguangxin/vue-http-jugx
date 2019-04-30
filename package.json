@@ -1,7 +1,7 @@
 {
   "name": "vue-http-jugx",
   "description": "A Vue.js plugin for providing http request",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "gx Ju <juguangxin@163.com>",
   "license": "MIT",
   "private": false,
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/juguangxin/vue-http-jugx"
   },
   "dependencies": {
     "vue": "^2.5.11"
