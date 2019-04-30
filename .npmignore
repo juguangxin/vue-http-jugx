@@ -1,0 +1,15 @@
+dist/*.map
+node_modules
+build
+src
+server
+static
+.git
+.babelrc
+.editorconfig
+.gitignore
+.gitattributes
+index.html
+package-lock.json
+webpack.config.js
+LICENSE
